@@ -1,0 +1,9 @@
+python-binance 
+TA-lib 
+numpy  
+backtrader
+flask
+websocket_client 
+
+wss://stream.binance.com:9443/ws/btcusdt@kline_5m 
+wss://stream.binance.com:9443/ws/btcusdt@trade 
